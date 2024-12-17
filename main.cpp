@@ -64,6 +64,7 @@ int main() {
     tmt->print();
     tm->count("sdfwsdf2ej sdfsdf sdf");
     tm->print();
+    cout << "hallo welt" << endl;
 
     return 0;
 }
